@@ -1,0 +1,25 @@
+cd-hit
+python packages:
+pycaret
+biopython
+propy3
+dill
+ifeature
+
+
+# conda create -n env_name python=3.6
+# conda activate env_name
+# pip install pycaret biopython propy3 dill xlsxwriter openpyxl
+# conda install -c bioconda cd-hit
+
+# conda install tensorflow
+# if you want to install tensorflow gpu do
+# conda install -c anaconda tensorflow-gpu
+
+# git clone https://github.com/Superzchen/iFeature.git ./ifeature
+
+
+the following had been installed when we install pycaret
+# matplotlib
+# pandas
+# numpy

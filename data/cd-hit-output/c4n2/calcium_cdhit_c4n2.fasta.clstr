@@ -1,0 +1,301 @@
+>Cluster 0
+0	26aa, >P37300|ori... at 42.31%
+1	83aa, >I6R1R5|ori... *
+>Cluster 1
+0	28aa, >P81992|ori... at 42.86%
+1	67aa, >P81993|ori... at 44.78%
+2	83aa, >Q2XXP3|ori... *
+3	83aa, >Q2XXR3|ori... at 59.04%
+4	30aa, >P0DL16|ori... at 43.33%
+5	78aa, >Q2XXR4|ori... at 88.46%
+>Cluster 2
+0	76aa, >P81790|ori... at 51.32%
+1	40aa, >P0DL38|ori... at 45.00%
+2	44aa, >P85033|ori... at 56.82%
+3	54aa, >P83903|ori... at 51.85%
+4	80aa, >P84093|ori... *
+5	76aa, >P81744|ori... at 50.00%
+6	76aa, >P33034|ori... at 50.00%
+7	24aa, >Q9XZL0|ori... at 45.83%
+8	39aa, >P85272|ori... at 71.79%
+9	31aa, >P85273|ori... at 77.42%
+10	24aa, >P85271|ori... at 58.33%
+11	28aa, >P0DQI8|ori... at 50.00%
+12	26aa, >P0CB10|ori... at 42.31%
+13	24aa, >Q9U648|ori... at 50.00%
+14	29aa, >Q5K0B9|ori... at 41.38%
+15	37aa, >P84027|ori... at 45.95%
+16	80aa, >Q5Y4U2|ori... at 45.00%
+17	28aa, >P15971|ori... at 57.14%
+>Cluster 3
+0	78aa, >P0DPV0|ori... *
+>Cluster 4
+0	74aa, >P81694|ori... *
+1	68aa, >P58604|ori... at 52.94%
+>Cluster 5
+0	33aa, >P59868|ori... at 42.42%
+1	28aa, >P68424|ori... at 42.86%
+2	26aa, >P58915|ori... at 50.00%
+3	33aa, >P60252|ori... at 42.42%
+4	74aa, >P60979|ori... *
+>Cluster 6
+0	33aa, >P84507|ori... at 42.42%
+1	33aa, >P84508|ori... at 42.42%
+2	69aa, >P83288|ori... *
+3	33aa, >P0DL84|ori... at 42.42%
+4	55aa, >P84756|ori... at 58.18%
+>Cluster 7
+0	25aa, >P0C8V8|ori... at 40.00%
+1	69aa, >B3EWT0|ori... *
+2	69aa, >B3EWT1|ori... at 98.55%
+>Cluster 8
+0	66aa, >C0HLR3|ori... *
+1	66aa, >P59899|ori... at 96.97%
+>Cluster 9
+0	11aa, >P62903|ori... at 72.73%
+1	37aa, >P49268|ori... at 40.54%
+2	66aa, >P15969|ori... *
+3	64aa, >B6DD32|ori... at 42.19%
+4	64aa, >B6DD30|ori... at 45.31%
+5	64aa, >B6DD31|ori... at 45.31%
+6	36aa, >P15970|ori... at 63.89%
+7	64aa, >B6DD33|ori... at 45.31%
+8	64aa, >B6DD29|ori... at 45.31%
+>Cluster 10
+0	64aa, >B3EWH0|ori... *
+>Cluster 11
+0	26aa, >P28881|ori... at 50.00%
+1	25aa, >P58917|ori... at 48.00%
+2	63aa, >P58910|ori... *
+3	62aa, >P0C5F0|ori... at 91.94%
+>Cluster 12
+0	62aa, >B7S4N9|ori... *
+>Cluster 13
+0	60aa, >P01414|ori... *
+1	60aa, >P22947|ori... at 95.00%
+2	60aa, >P25684|ori... at 90.00%
+3	60aa, >P25683|ori... at 80.00%
+>Cluster 14
+0	60aa, >P81658|ori... *
+>Cluster 15
+0	58aa, >Q589G4|ori... *
+>Cluster 16
+0	56aa, >P84843|ori... *
+1	24aa, >P0CB11|ori... at 41.67%
+>Cluster 17
+0	55aa, >P81792|ori... *
+1	36aa, >P83996|ori... at 41.67%
+2	34aa, >P58606|ori... at 41.18%
+3	35aa, >P0DQO3|ori... at 40.00%
+4	36aa, >P86418|ori... at 44.44%
+5	44aa, >P85034|ori... at 40.91%
+6	55aa, >P84014|ori... at 96.36%
+7	29aa, >Q5K0C4|ori... at 44.83%
+8	24aa, >Q9XZK9|ori... at 45.83%
+>Cluster 18
+0	25aa, >P05484|ori... at 48.00%
+1	26aa, >P0DKQ3|ori... at 46.15%
+2	16aa, >F2XFS9|ori... at 50.00%
+3	54aa, >I6S390|ori... *
+4	54aa, >I6RU37|ori... at 94.44%
+>Cluster 19
+0	16aa, >Q1L777|ori... at 43.75%
+1	54aa, >P0C2P6|ori... *
+>Cluster 20
+0	53aa, >P0DPT6|ori... *
+>Cluster 21
+0	31aa, >P85267|ori... at 41.94%
+1	49aa, >P58605|ori... *
+>Cluster 22
+0	27aa, >P58920|ori... at 40.74%
+1	48aa, >P37045|ori... *
+2	33aa, >P83301|ori... at 42.42%
+3	48aa, >P30288|ori... at 70.83%
+4	40aa, >O76200|ori... at 40.00%
+>Cluster 23
+0	43aa, >P83911|ori... at 51.16%
+1	48aa, >P0DL48|ori... *
+2	34aa, >O76201|ori... at 58.82%
+3	37aa, >P85269|ori... at 48.65%
+4	23aa, >P85270|ori... at 43.48%
+5	34aa, >P81793|ori... at 47.06%
+6	36aa, >P0C2S6|ori... at 44.44%
+>Cluster 24
+0	47aa, >P85079|ori... *
+1	35aa, >B8QG00|ori... at 42.86%
+2	47aa, >A9XDG2|ori... at 97.87%
+3	47aa, >A9XDG0|ori... at 97.87%
+4	47aa, >A9XDG5|ori... at 97.87%
+5	47aa, >A9XDG3|ori... at 93.62%
+6	47aa, >A9XDG1|ori... at 97.87%
+7	47aa, >A9XDG4|ori... at 97.87%
+>Cluster 25
+0	25aa, >P0DQD4|ori... at 40.00%
+1	25aa, >P0CY60|ori... at 52.00%
+2	46aa, >Q27Q53|ori... *
+>Cluster 26
+0	16aa, >C0HJY4|ori... at 50.00%
+1	45aa, >P81791|ori... *
+2	19aa, >P31010|ori... at 52.63%
+>Cluster 27
+0	45aa, >P82852|ori... *
+1	25aa, >P05485|ori... at 40.00%
+2	42aa, >Q9BJV9|ori... at 45.24%
+3	42aa, >Q9BJW0|ori... at 45.24%
+4	45aa, >Q9BJV7|ori... at 55.56%
+5	45aa, >Q9BJV8|ori... at 53.33%
+>Cluster 28
+0	13aa, >P81755|ori... at 61.54%
+1	45aa, >P0DM29|ori... *
+2	37aa, >P86399|ori... at 54.05%
+3	32aa, >P0CI88|ori... at 50.00%
+4	37aa, >Q8I6X9|ori... at 56.76%
+5	37aa, >B8XH22|ori... at 59.46%
+>Cluster 29
+0	28aa, >P01522|ori... at 42.86%
+1	44aa, >P34079|ori... *
+2	30aa, >P58426|ori... at 40.00%
+3	30aa, >P61792|ori... at 40.00%
+4	29aa, >P61791|ori... at 41.38%
+>Cluster 30
+0	27aa, >P58914|ori... at 44.44%
+1	25aa, >Q26350|ori... at 48.00%
+2	25aa, >P58918|ori... at 40.00%
+3	28aa, >P0CH13|ori... at 46.43%
+4	42aa, >P0CI04|ori... *
+>Cluster 31
+0	41aa, >Q8T0W8|ori... *
+>Cluster 32
+0	41aa, >A0A0G3F8Z3|ori... *
+1	35aa, >P86269|ori... at 42.86%
+>Cluster 33
+0	35aa, >P83480|ori... at 48.57%
+1	35aa, >P61104|ori... at 54.29%
+2	38aa, >P0DUC1|ori... at 71.05%
+3	34aa, >P0DPC2|ori... at 44.12%
+4	39aa, >D5J6X1|ori... at 61.54%
+5	38aa, >P0DUC2|ori... at 68.42%
+6	35aa, >P56852|ori... at 60.00%
+7	41aa, >P56854|ori... *
+8	31aa, >Q5K0D2|ori... at 41.94%
+9	13aa, >P0CI41|ori... at 46.15%
+>Cluster 34
+0	24aa, >P28880|ori... at 41.67%
+1	25aa, >Q9XZK2|ori... at 52.00%
+2	28aa, >P58916|ori... at 60.71%
+3	26aa, >P56714|ori... at 53.85%
+4	29aa, >P05483|ori... at 41.38%
+5	40aa, >P0DL31|ori... *
+>Cluster 35
+0	39aa, >P85504|ori... *
+1	39aa, >P85497|ori... at 97.44%
+2	38aa, >P0DL78|ori... at 73.68%
+3	39aa, >P0DL81|ori... at 82.05%
+4	39aa, >P61509|ori... at 94.87%
+5	39aa, >P0DMD9|ori... at 92.31%
+6	39aa, >P61510|ori... at 92.31%
+>Cluster 36
+0	37aa, >P56207|ori... at 54.05%
+1	37aa, >P83580|ori... at 54.05%
+2	37aa, >P81599|ori... at 54.05%
+3	39aa, >P83588|ori... *
+4	37aa, >P81595|ori... at 51.35%
+5	36aa, >P0C2L5|ori... at 44.44%
+6	37aa, >P0C2L6|ori... at 48.65%
+7	37aa, >P0C2L7|ori... at 40.54%
+8	37aa, >A5A3H5|ori... at 51.35%
+9	37aa, >A5A3H2|ori... at 48.65%
+10	37aa, >A5A3H4|ori... at 54.05%
+11	36aa, >A5A3H1|ori... at 52.78%
+12	24aa, >Q9XZL4|ori... at 41.67%
+13	24aa, >Q9XZL5|ori... at 41.67%
+14	37aa, >P81598|ori... at 54.05%
+15	37aa, >P81596|ori... at 51.35%
+16	37aa, >P0DMQ2|ori... at 51.35%
+17	37aa, >P0DMQ3|ori... at 56.76%
+18	37aa, >P0DMQ0|ori... at 45.95%
+19	37aa, >P0DMQ1|ori... at 48.65%
+20	36aa, >S0F215|ori... at 44.44%
+21	37aa, >P0C2L4|ori... at 54.05%
+22	37aa, >S0F204|ori... at 48.65%
+23	37aa, >S0F1M4|ori... at 40.54%
+24	37aa, >S0F1N0|ori... at 45.95%
+25	37aa, >S0F1N6|ori... at 51.35%
+>Cluster 37
+0	34aa, >P49344|ori... at 50.00%
+1	37aa, >P49343|ori... *
+>Cluster 38
+0	34aa, >P0DL72|ori... at 50.00%
+1	33aa, >P58425|ori... at 45.45%
+2	36aa, >P61790|ori... at 47.22%
+3	37aa, >P61789|ori... *
+>Cluster 39
+0	36aa, >P60590|ori... *
+>Cluster 40
+0	36aa, >P0DJ08|ori... *
+1	36aa, >P0C5F2|ori... at 91.67%
+2	15aa, >P0DMG5|ori... at 40.00%
+>Cluster 41
+0	36aa, >P0C8V9|ori... *
+1	35aa, >Q9XZK4|ori... at 57.14%
+2	36aa, >Q9XZK3|ori... at 94.44%
+3	30aa, >Q9XYZ0|ori... at 40.00%
+4	33aa, >Q9BP99|ori... at 45.45%
+5	36aa, >Q5K0D8|ori... at 88.89%
+6	33aa, >P0C832|ori... at 54.55%
+7	35aa, >P0CY69|ori... at 71.43%
+>Cluster 42
+0	36aa, >P83892|ori... *
+>Cluster 43
+0	33aa, >P60254|ori... at 42.42%
+1	31aa, >A0A384E129|ori... at 45.16%
+2	35aa, >P58608|ori... at 88.57%
+3	33aa, >P60253|ori... at 42.42%
+4	36aa, >P58609|ori... *
+>Cluster 44
+0	35aa, >P31328|ori... *
+1	33aa, >A0A1L4BJ42|ori... at 45.45%
+2	26aa, >Q9U654|ori... at 42.31%
+3	30aa, >Q5K0C0|ori... at 46.67%
+>Cluster 45
+0	33aa, >P56676|ori... *
+>Cluster 46
+0	16aa, >A0A068B0Z6|ori... at 43.75%
+1	33aa, >P0DPT1|ori... *
+2	26aa, >P58919|ori... at 46.15%
+3	33aa, >P0DM30|ori... at 96.97%
+4	33aa, >L0GBR1|ori... at 72.73%
+>Cluster 47
+0	30aa, >P83476|ori... at 43.33%
+1	33aa, >P0DQO4|ori... *
+>Cluster 48
+0	33aa, >P86543|ori... *
+>Cluster 49
+0	31aa, >P61409|ori... at 41.94%
+1	31aa, >P56708|ori... at 51.61%
+2	31aa, >P0DPM4|ori... at 83.87%
+3	25aa, >Q9XZK8|ori... at 44.00%
+4	32aa, >Q9XZL3|ori... *
+5	31aa, >Q9U644|ori... at 83.87%
+6	25aa, >Q9U651|ori... at 44.00%
+>Cluster 50
+0	31aa, >P56712|ori... *
+1	28aa, >Q9BH84|ori... at 50.00%
+>Cluster 51
+0	31aa, >P58427|ori... *
+1	25aa, >P0CY66|ori... at 40.00%
+>Cluster 52
+0	30aa, >P56713|ori... *
+1	29aa, >Q9XZL1|ori... at 96.55%
+2	30aa, >Q3YED6|ori... at 80.00%
+3	28aa, >Q9BPA5|ori... at 71.43%
+>Cluster 53
+0	28aa, >P83405|ori... *
+1	28aa, >P83406|ori... at 96.43%
+>Cluster 54
+0	25aa, >P0DOW6|ori... at 44.00%
+1	28aa, >Q9XYZ1|ori... *
+>Cluster 55
+0	28aa, >D2Y2R4|ori... *
+1	28aa, >D2Y2R1|ori... at 92.86%
+2	28aa, >D2Y2F2|ori... at 92.86%
