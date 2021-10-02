@@ -1,8 +1,8 @@
 # Ion-Prarllel-CNN
 
 1. download the package
-2. unzip the ifeature.zip to its current folder
-3. create a new conda environment and install the requirement packages follow:
+
+2. create a new conda environment and install the requirement packages follow:
         
         requirements.txt
 3. activate the conda environment
