@@ -95,9 +95,9 @@ if __name__ == "__main__":
     activities = ["sodium", "potassium", "calcium"]
     # print("Starting develop and save model: ###########")
     # cnn = FinalCNNMdl(best18fts_cdhit, activity="sodium", init=True)
-    mdl_path = {"sodium": "~/path-to-ion-project/ion-parallel-cnn/CNNMdl/CNNMdl-calcium-CDHit.pkl",
-         "potassium": "~/path-to-ion-project/ion-parallel-cnn/CNNMdl/CNNMdl-potassium-CDHit.pkl",
-         "calcium": "~/path-to-ion-project/ion-parallel-cnn/CNNMdl/CNNMdl-calcium-CDHit.pkl"}
+    mdl_path = {"sodium": "~/path-to-ion-project/Parallel-CNN/CNNMdl/CNNMdl-calcium-CDHit.mdl",
+         "potassium": "~/path-to-ion-project/ion-parallel-cnn/CNNMdl/CNNMdl-calcium-CDHit.mdl",
+         "calcium": "~/path-to-ion-project/ion-parallel-cnn/CNNMdl/CNNMdl-calcium-CDHit.mdl"}
     print("Starting predict fasta sequences: ###########")
     # test path is a fasta file
     test_path = "your_test_peptide_sequences.fasta"

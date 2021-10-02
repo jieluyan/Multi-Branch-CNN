@@ -7,9 +7,10 @@
     from tools import *
     from FinalMdl import *
     # activity can be "sodium", "potassium", or "calcium"
-    mdl_path = {"sodium": "~/path-to-ion-project/ion-parallel-cnn/CNNMdl/CNNMdl-calcium-CDHit.mdl",
-         "potassium": "~/path-to-ion-project/ion-parallel-cnn/CNNMdl/CNNMdl-potassium-CDHit.mdl",
-         "calcium": "~/path-to-ion-project/ion-parallel-cnn/CNNMdl/CNNMdl-calcium-CDHit.mdl"}
+    mdl_path = 
+         {"sodium": "~/path-to-ion-project/Parallel-CNN/CNNMdl/CNNMdl-calcium-CDHit.mdl",         
+         "potassium": "~/path-to-ion-project/Parallel-CNN/CNNMdl/CNNMdl-potassium-CDHit.mdl",         
+         "calcium": "~/path-to-ion-project/Parallel-CNN/CNNMdl/CNNMdl-calcium-CDHit.mdl"}
     print("Starting predict fasta sequences: ###########")
     # test path is a fasta file
     test_path = "your_test_peptide_sequences.fasta"
