@@ -881,7 +881,7 @@ def predictSequenceFromSaveKerasMdl(test_path, Mdl_path, testRs_path, ft_list):
     sets = CNNimportFtsDataSets(test_path, ft_list, class_val=None)
     names, seqs, lens, records = readFastaYan(test_path)
     X, Y = CNNstandardInputOutput(sets)
-    mdl_name = os.path.basename(mdl_path)
+    mdl_name = os.path.basename(Mdl_path)
     CNNMdl = keras.models.load_model(Mdl_path)
     pred = CNNMdl.predict(X)
     df = pd.DataFrame(pred[:, 1], index=names, columns=[mdl_name.split(".")[0]])
