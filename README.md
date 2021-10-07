@@ -1,4 +1,4 @@
-# Ion-Prarllel-CNN
+# Parallel-CNN
 
 1. download the package
 
