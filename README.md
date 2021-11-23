@@ -1,4 +1,4 @@
-# Parallel-CNN
+# Multi-Branch-CNN
 
 1. download the package
 
