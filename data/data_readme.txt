@@ -31,7 +31,5 @@
             3) ./data/CDHit/calcium_test_ne.fasta
         train dataset positive part includes all the sequences of 1 file which are (use calcium channel as example):
             1) ./data/CDHit/calcium_train_ne0.fasta
-4.  ./data/finalMdlSet is the sets to develop the final dataset each of them conatins:
-    a. all the corresponding train sequences
-    a. all the corresponding test sequences
-    a. all the corresponding novel-test sequences
+5.  ./data/finalMdlSet is the sets to develop the final dataset each of them conatins:
+    a. all the corresponding sequences from the corresponding train and test sets.
