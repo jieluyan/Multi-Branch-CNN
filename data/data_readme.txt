@@ -29,7 +29,7 @@
             1) ./data/len5ToLen10Seqs/CDHit/calcium_len5ToLen10Seqs_ne0.fasta
             2) ./data/CDHit/calcium_novel_ne.fasta
             3) ./data/CDHit/calcium_test_ne.fasta
-        train dataset positive part includes all the sequences of 1 file which are (use calcium channel as example):
+        train dataset negative part includes all the sequences of 1 file which are (use calcium channel as example):
             1) ./data/CDHit/calcium_train_ne0.fasta
 5.  ./data/finalMdlSet is the sets to develop the final dataset each of them conatins (use calcium channel as example):
     a. calcium_finalMdlSet_po.fasta:
